@@ -6,9 +6,7 @@
 
 今天学会了创建仓库和发布。
 
-\## 学习记录
-
-\- 用 GitHub Desktop 建仓库并发布
-
-\- 正在练习分支和 Pull Request
+## 学习记录
+- 用 GitHub Desktop 建仓库并发布
+- 正在练习分支和 Pull Request
 
